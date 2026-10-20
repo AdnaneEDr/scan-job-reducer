@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+.mypy_cache/
+.ruff_cache/
+
+# Fichiers locaux et dépendances régénérables
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+**/target/
+.pytest_cache/
+.ruff_cache/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+.DS_Store
+Thumbs.db
